@@ -1,0 +1,2 @@
+* 89b2790 Enhance login with authentication
+* 7b441e9 Add initial login functionality
