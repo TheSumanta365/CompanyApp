@@ -1,0 +1,6 @@
+*   eb3ddd3 "message"
+|\  
+| * 26ac531 Added dashboard functionality
+|/  
+* 89b2790 Enhance login with authentication
+* 7b441e9 Add initial login functionality
